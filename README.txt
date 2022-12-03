@@ -1,2 +1,1 @@
-This website is meant to act as a portfolio for my projects from this class while also describing some information about myself and my skills with coding and media design.
-I may add more images and files to expand the portfolio while I'm making the website, as needed.
+This website is meant to act as a portfolio for my projects from this class while also describing some information about myself and my skills with coding and media design. I've included a home page with a short about section and contact information, an experience page with information from my resume as well as a link to my resume itself, and a portfolio page with my two projects from this class included.
